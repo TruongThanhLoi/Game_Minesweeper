@@ -1,0 +1,31 @@
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Hien\Downloads\Minesweeper-DotNet-master\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.GUI.frmPlay.resources
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.frmMenu.resources
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.frmPlay.resources
+D:\Học Tập\LapTrinhHuongSuKien.NET\Bai Tap Lon\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.frmShow.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\bin\Debug\Minesweeper.exe.config
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.exe
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.pdb
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\bin\Debug\Minesweeper.exe
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\bin\Debug\Minesweeper.pdb
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.frmShow.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.frmMenu.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.frmPlay.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\Minesweeper_Project\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache

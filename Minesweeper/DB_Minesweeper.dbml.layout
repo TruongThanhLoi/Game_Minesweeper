@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DB_Minesweeper">
+  <DataContextMoniker Name="/DB_MinesweeperDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5cbd2703-5f12-4d86-b64c-9cc254df701f" absoluteBounds="0.75, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DB_MinesweeperDataContext/CapDo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30710516-d05d-4869-a171-68ea1ce026fe" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bffe65dc-b058-43f7-8b91-ef2e183cdfa2" absoluteBounds="3.5, 1, 2, 1.5785953776041664">
+      <DataClassMoniker Name="/DB_MinesweeperDataContext/LuotChoi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c66c435-804a-4964-a9a8-a3bbb84417cb" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="147d2bc4-4657-4d33-bb2e-f14b411c1e1e" absoluteBounds="6.25, 1, 2, 1.5785953776041664">
+      <DataClassMoniker Name="/DB_MinesweeperDataContext/Cell" />
+      <nestedChildShapes>
+        <elementListCompartment Id="77062f67-5429-43ec-8da3-41f52e669375" absoluteBounds="6.265, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.78929768880208); (3.5 : 1.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_MinesweeperDataContext/CapDo/CapDo_LuotChoi" />
+      <nodes>
+        <classShapeMoniker Id="5cbd2703-5f12-4d86-b64c-9cc254df701f" />
+        <classShapeMoniker Id="bffe65dc-b058-43f7-8b91-ef2e183cdfa2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.78929768880208); (6.25 : 1.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_MinesweeperDataContext/LuotChoi/LuotChoi_Cell" />
+      <nodes>
+        <classShapeMoniker Id="bffe65dc-b058-43f7-8b91-ef2e183cdfa2" />
+        <classShapeMoniker Id="147d2bc4-4657-4d33-bb2e-f14b411c1e1e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
